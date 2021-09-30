@@ -1,4 +1,4 @@
-update=Fri 12 Feb 2016 01:08:55 PM EET
+update=Thu 09 Sep 2021 11:05:17 PM CST
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,23 +25,6 @@ version=1
 NetIExt=net
 [general]
 version=1
-[eeschema]
-version=1
-LibDir=../../../../KiCAD_Components
-[eeschema/libraries]
-LibName1=OLIMEX_Antennas
-LibName2=OLIMEX_Buttons
-LibName3=OLIMEX_Connectors
-LibName4=OLIMEX_Devices
-LibName5=OLIMEX_Diodes
-LibName6=OLIMEX_IC
-LibName7=OLIMEX_Jumpers
-LibName8=OLIMEX_OTHER
-LibName9=OLIMEX_Power
-LibName10=OLIMEX_RCL
-LibName11=OLIMEX_Regulators
-LibName12=OLIMEX_Switches
-LibName13=OLIMEX_Transistors
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -53,3 +36,6 @@ SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
 ERC_TestSimilarLabels=1
+[eeschema]
+version=1
+LibDir=
